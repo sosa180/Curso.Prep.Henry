@@ -1,0 +1,4 @@
+*Arrays
+
+Los arreglos son espacios de almacenamiento que sirven para guardar informacion, los podemos enterder como matrices y se forman basicamente por filas y columnas, en cada espacion se puede
+guardar cualquier tipo de informacion y acceder, eliminar o agregar datos en el momento que lo solicitemos.
